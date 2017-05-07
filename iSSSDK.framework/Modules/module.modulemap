@@ -1,0 +1,6 @@
+framework module iSSSDK {
+  umbrella header "iSSSDK.h"
+
+  export *
+  module * { export * }
+}

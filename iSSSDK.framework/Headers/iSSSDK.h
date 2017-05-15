@@ -16,3 +16,6 @@ FOUNDATION_EXPORT const unsigned char iSSSDKVersionString[];
 
 
 #import <iSSSDK/SSKeychain.h>
+
+#import <iSSSDK/SSURL.h>
+#import <iSSSDK/SSURLDataTask.h>

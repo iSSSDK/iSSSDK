@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+
+use_frameworks!
+target 'SSAVPlayerViewSample' do
+  #pod 'iSSSDK', :path => '../../'
+  pod "iSSSDK", :git => 'https://github.com/isssdk/iSSSDK.git'
+  
+end

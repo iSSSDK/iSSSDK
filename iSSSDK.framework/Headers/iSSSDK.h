@@ -19,3 +19,6 @@ FOUNDATION_EXPORT const unsigned char iSSSDKVersionString[];
 
 #import <iSSSDK/SSURL.h>
 #import <iSSSDK/SSURLDataTask.h>
+
+#import <iSSSDK/SSAVPlayerView.h>
+#import <iSSSDK/SSAVPlayerController.h>
